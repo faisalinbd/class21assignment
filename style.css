@@ -1,0 +1,12 @@
+
+
+.carousel-item{
+    position: relative;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    bottom: 50%;
+}
